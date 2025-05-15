@@ -104,7 +104,7 @@ Frontend isn't just about making things look good—it's about creating intuitiv
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/rkshtsingh28">
+  <a href="https://www.linkedin.com/in/rkshtsingh28">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
